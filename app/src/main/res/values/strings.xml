@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppMenu</string>
+    <string name="skip_btn_text">Пропустить</string>
+    <string name="next_btn_text">Далее</string>
+    <string name="onboarding_bg" />
+    <string name="image_onboarding" />
+
+    <string name="onboarding_title_1">Добро пожаловать\nв Клуб Синема!</string>
+    <string name="onboarding_description_1" />
+
+    <string name="onboarding_title_2">Смотри премьеры\nи классику в кино</string>
+    <string name="onboarding_description_2">Узнавай первый о премьерах новых фильмах и пересматривай любимые фильмы в кинозале</string>
+
+    <string name="onboarding_title_3">Все билеты\nв одном месте</string>
+    <string name="onboarding_description_3">Покупай и используй билеты в любимых кинотеатрах в одном приложении</string>
+
+    <string name="start_btn_text">Начать</string>
+
+</resources>
